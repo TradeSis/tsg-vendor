@@ -2,7 +2,7 @@
         <!-- Bootstrap Atualizado -->
         <script src="<?php echo URLROOT ?>/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
         <!-- jquery -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="<?php echo URLROOT ?>/vendor/jquery/jquery.min.js"></script>
         <!-- input dos formularios -->
         <script src="<?php echo URLROOT ?>/sistema/js/input.js"></script>
         <!-- QUILL -->
