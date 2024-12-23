@@ -9,6 +9,9 @@
         <script src="<?php echo URLROOT ?>/vendor/quilljs/quill.min.js"></script>
         <!-- JQUERY MASK -->
         <script src="<?php echo URLROOT ?>/vendor/jquery/jquery.mask.min.js"></script>
+
+        <!-- teste -->
+        <script src="<?php echo URLROOT ?>/sistema/js/funcoes.js"></script>
         
 
 
