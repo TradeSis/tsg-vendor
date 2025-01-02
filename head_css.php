@@ -7,7 +7,7 @@ include_once __DIR__ . "/../config.php";
         <link rel="icon" href="<?php echo URLROOT ?>/img/meucontrole_icon.png" type="image/png">
 
         <!-- Bootstrap Atualizado -->
-        <link href="<?php echo URLROOT ?>/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="<?php echo URLROOT ?>/vendor/bootstrap/bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <!---Bootstrap Icon -->
         <link rel="stylesheet" href="<?php echo URLROOT ?>/vendor/bootstrap/bootstrap-icons-1.11.3/font/bootstrap-icons.css">
 
