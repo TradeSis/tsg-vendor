@@ -12,6 +12,7 @@
 
         <!-- teste -->
         <script src="<?php echo URLROOT ?>/sistema/js/funcoes.js"></script>
+        <script src="<?php echo URLROOT ?>/sistema/js/Table.js"></script> 
         
 
 
